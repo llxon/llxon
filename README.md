@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me. email me: contact.luluk@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Im a boring manager
 
 <!---
 llxon/llxon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
