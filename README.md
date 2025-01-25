@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llxon
 - 👀 I’m interested in Data Science, espescially that in Sustainability sector
 - 🌱 I’m currently learning Python and SQL
-- 📫 How to reach me. email me: contact.luluk@gmail.com
+- 📫 How to reach me. email me: psasidiaz@gmail.com
 - 😄 Pronouns: She/her
 
 <!---
